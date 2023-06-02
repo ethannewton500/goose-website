@@ -40,6 +40,8 @@ nav {
   grid-template-columns: 1fr 1fr 1fr 1fr;
   place-items: center;
   padding: 20px 0 20px 0;
+  max-width: 1920px;
+  margin: 0 auto 0 auto;
 }
 .album-image {
   width: 90%;
